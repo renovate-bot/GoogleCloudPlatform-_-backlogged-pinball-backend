@@ -126,7 +126,7 @@
     "qs": "^6.13.0",
     "range-parser": "^1.2.1",
     "raw-body": "^2.5.2",
-    "readable-stream": "^3.6.2",
+    "readable-stream": "^4.0.0",
     "require-directory": "^2.1.1",
     "retry": "^0.13.1",
     "retry-request": "^7.0.2",
