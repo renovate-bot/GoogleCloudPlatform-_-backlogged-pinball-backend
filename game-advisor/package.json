@@ -77,7 +77,7 @@
     "html-entities": "^2.5.2",
     "http-errors": "^2.0.0",
     "http-parser-js": "^0.5.8",
-    "http-proxy-agent": "^5.0.0",
+    "http-proxy-agent": "^7.0.0",
     "https-proxy-agent": "^7.0.5",
     "iconv-lite": "^0.4.24",
     "inherits": "^2.0.4",
