@@ -125,7 +125,7 @@
     "proxy-addr": "^2.0.7",
     "qs": "^6.13.0",
     "range-parser": "^1.2.1",
-    "raw-body": "^2.5.2",
+    "raw-body": "^3.0.0",
     "readable-stream": "^3.6.2",
     "require-directory": "^2.1.1",
     "retry": "^0.13.1",
