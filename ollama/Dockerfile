@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM ollama/ollama:0.3.12
+FROM ollama/ollama:0.3.13
 
 # Listen on all interfaces, port 8080
 ENV OLLAMA_HOST 0.0.0.0:8080
