@@ -82,7 +82,7 @@
     "iconv-lite": "^0.4.24",
     "inherits": "^2.0.4",
     "ipaddr.js": "^1.9.1",
-    "is-fullwidth-code-point": "^3.0.0",
+    "is-fullwidth-code-point": "^5.0.0",
     "is-stream": "^2.0.1",
     "jose": "^4.15.9",
     "json-bigint": "^1.0.0",
