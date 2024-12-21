@@ -157,7 +157,7 @@
     "utils-merge": "^1.0.1",
     "uuid": "^10.0.0",
     "vary": "^1.1.2",
-    "webidl-conversions": "^3.0.1",
+    "webidl-conversions": "^7.0.0",
     "websocket-driver": "^0.7.4",
     "websocket-extensions": "^0.1.4",
     "whatwg-url": "^5.0.0",
