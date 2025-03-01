@@ -146,7 +146,7 @@
     "strip-ansi": "^6.0.1",
     "strnum": "^1.0.5",
     "stubs": "^3.0.0",
-    "teeny-request": "^9.0.0",
+    "teeny-request": "^10.0.0",
     "toidentifier": "^1.0.1",
     "tr46": "^0.0.3",
     "tslib": "^2.7.0",
