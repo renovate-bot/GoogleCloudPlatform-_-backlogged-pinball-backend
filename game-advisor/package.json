@@ -129,7 +129,7 @@
     "readable-stream": "^3.6.2",
     "require-directory": "^2.1.1",
     "retry": "^0.13.1",
-    "retry-request": "^7.0.2",
+    "retry-request": "^8.0.0",
     "safe-buffer": "^5.2.1",
     "safer-buffer": "^2.1.2",
     "semver": "^7.6.3",
