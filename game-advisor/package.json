@@ -108,7 +108,7 @@
     "methods": "^1.1.2",
     "mime": "^1.6.0",
     "mime-db": "^1.52.0",
-    "mime-types": "^2.1.35",
+    "mime-types": "^3.0.0",
     "ms": "^2.0.0",
     "negotiator": "^0.6.3",
     "node-fetch": "^2.7.0",
