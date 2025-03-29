@@ -150,7 +150,7 @@
     "toidentifier": "^1.0.1",
     "tr46": "^0.0.3",
     "tslib": "^2.7.0",
-    "type-is": "^1.6.18",
+    "type-is": "^2.0.0",
     "undici-types": "^6.19.8",
     "unpipe": "^1.0.0",
     "util-deprecate": "^1.0.2",
