@@ -10,7 +10,7 @@
     "@genkit-ai/vertexai": "^0.5.13",
     "abort-controller": "^3.0.0",
     "accepts": "^1.3.8",
-    "agent-base": "^7.1.1",
+    "agent-base": "^9.0.0",
     "ansi-regex": "^5.0.1",
     "ansi-styles": "^4.3.0",
     "array-flatten": "^1.1.1",
