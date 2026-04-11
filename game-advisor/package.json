@@ -78,7 +78,7 @@
     "http-errors": "^2.0.0",
     "http-parser-js": "^0.5.8",
     "http-proxy-agent": "^5.0.0",
-    "https-proxy-agent": "^7.0.5",
+    "https-proxy-agent": "^9.0.0",
     "iconv-lite": "^0.4.24",
     "inherits": "^2.0.4",
     "ipaddr.js": "^1.9.1",
