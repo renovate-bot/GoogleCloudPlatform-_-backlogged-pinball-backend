@@ -6,7 +6,7 @@
     "@google-cloud/pubsub": "^4.10.0",
     "axios": "^1.8.2",
     "genkit": "^1.1.0",
-    "google-auth-library": "^9.15.1"
+    "google-auth-library": "^11.0.0"
   },
   "scripts": {
     "start": "node dist/index.js",
