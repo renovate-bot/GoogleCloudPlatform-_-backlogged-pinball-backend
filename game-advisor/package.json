@@ -67,7 +67,7 @@
     "get-caller-file": "^2.0.5",
     "get-intrinsic": "^1.2.4",
     "google-auth-library": "^9.14.1",
-    "google-gax": "^4.4.1",
+    "google-gax": "^6.0.0",
     "gopd": "^1.0.1",
     "gtoken": "^7.1.0",
     "has-property-descriptors": "^1.0.2",
