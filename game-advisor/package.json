@@ -27,7 +27,7 @@
     "color-convert": "^2.0.1",
     "color-name": "^1.1.4",
     "combined-stream": "^1.0.8",
-    "content-disposition": "^0.5.4",
+    "content-disposition": "^3.0.0",
     "content-type": "^1.0.5",
     "cookie": "^0.6.0",
     "cookie-signature": "^1.0.6",
