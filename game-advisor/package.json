@@ -61,7 +61,7 @@
     "fresh": "^0.5.2",
     "function-bind": "^1.1.2",
     "functional-red-black-tree": "^1.0.1",
-    "gaxios": "^6.7.1",
+    "gaxios": "^8.0.0",
     "gcp-metadata": "^6.1.0",
     "genkitx-ollama": "^0.5.13",
     "get-caller-file": "^2.0.5",
